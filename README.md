@@ -109,3 +109,9 @@ Native GUI smoke test (opens a window briefly and writes `preview.png` plus a re
 ```sh
 julia --startup-file=no speaker_gui.jl --smoke-test
 ```
+
+## License
+
+This project's original code and documentation are licensed under the
+[MIT License](LICENSE). Dependencies retain their own licenses; see
+[Third-party notices](THIRD_PARTY_NOTICES.md).
