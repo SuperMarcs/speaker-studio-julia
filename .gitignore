@@ -1,0 +1,8 @@
+reports/
+room_exports/
+my_speaker.toml
+preview.png
+.DS_Store
+
+# Exclude the empty repository created inside the project folder.
+/speaker-studio-julia/
